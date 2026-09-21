@@ -112,6 +112,13 @@ Better:
 これは固定の対訳辞書ではない。
 実際の文脈に適した日本語を選ぶ。
 
+## Avoided expressions
+
+日本語の地の文を書くときは、[`references/avoided-expressions.md`](references/avoided-expressions.md) を参照し、記載された表現を避ける。
+
+一覧の代替候補は固定の対訳ではない。
+文脈に応じて、意味が自然に伝わる日本語へ書き換える。
+
 ## Do not force katakana
 
 英単語をカタカナにするだけでは、このスキルの目的を満たさない。
